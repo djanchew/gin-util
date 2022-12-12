@@ -1,4 +1,4 @@
-module github.com/djanchew/gin-utils-router
+module github.com/djanchew/gin-util
 
 go 1.19
 

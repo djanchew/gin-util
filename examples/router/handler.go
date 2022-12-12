@@ -1,4 +1,4 @@
-package examples
+package router
 
 import (
 	router_actions "gin-utils-router"

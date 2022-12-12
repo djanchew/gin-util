@@ -1,4 +1,4 @@
-package router_actions
+package router
 
 import (
 	"errors"
